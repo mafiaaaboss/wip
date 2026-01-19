@@ -1,6 +1,7 @@
 
 <!--
 **Roziedozie/RozieDozie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="404" height="69" alt="image" src="https://github.com/user-attachments/assets/6d974c47-3e60-4ad4-a036-1a3cdc168ef7" />
 
 Here are some ideas to get you started:
 
